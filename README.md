@@ -1,7 +1,7 @@
 # NYC-taxi-analysis
 New York City yellow taxi project (python, pandas, seaborn)
 
-In this assignment you're going to work with NYC Taxi & Limousine Comission Trip Data (http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
+In this assignment I worked with NYC Taxi & Limousine Comission Trip Data (http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
 Please use yellow taxi dataset for the latest month available (June 2018 data were used).
 
 Questions:
